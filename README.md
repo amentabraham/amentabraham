@@ -1,27 +1,21 @@
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amentabraham07-blip/amentabraham07-blip/main/banner.jpg"
-       width="100%"
-       alt="Amen Abraham - Developer Banner"/>
-</p>
+<div align="center">
+
+<h1><strong>AMEN ABRAHAM</strong></h1>
+
+<h3>MCA STUDENT | ASPIRING SOFTWARE DEVELOPER</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Passionate+about+Software+Development;Building+Projects+and+Learning+Every+Day"/>
 
 <br/>
 
-<p align="center">
-  <strong>AMEN ABRAHAM</strong><br/>
-  MCA STUDENT | ASPIRING SOFTWARE DEVELOPER
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SOFTWARE_DEVELOPMENT-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WEB_DEVELOPMENT-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PROBLEM_SOLVING-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</p>
+**Turning ideas into practical digital solutions.**
 
 <br/>
 
-
-<br/>
+<img src="https://img.shields.io/badge/SOFTWARE_DEVELOPMENT-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PROBLEM_SOLVING-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </div>
 
