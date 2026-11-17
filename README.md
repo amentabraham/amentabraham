@@ -1,12 +1,9 @@
 
 <div align="center">
 
-# AMEN T ABRAHAM
-
-### MCA STUDENT | ASPIRING SOFTWARE DEVELOPER
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Passionate+about+Software+Development;Building+Projects+and+Learning+Every+Day" />
-
+<p align="center">
+  <img src="banner.png" width="100%" alt="Amen Abraham - Aspiring Software Developer"/>
+</p>
 <br/>
 
 **Turning ideas into practical digital solutions.**
