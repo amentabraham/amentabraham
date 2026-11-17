@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h1><strong>AMEN ABRAHAM</strong></h1>
+<h1>AMEN T ABRAHAM</h1>
 
 <h3>MCA STUDENT | ASPIRING SOFTWARE DEVELOPER</h3>
 
@@ -26,11 +26,19 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 MCA Student
-- 💻 Interested in Software Development
-- 🌱 Currently learning Web Development
-- 🚀 Building practical projects
-- 🤝 Always ready to learn new technologies
+
+## About Me
+
+I'm **Amen T Abraham**, an MCA student and aspiring software developer with an interest in building practical and user-friendly software solutions.
+
+I enjoy exploring new technologies, developing web applications, and transforming ideas into meaningful digital solutions.
+
+- Currently pursuing Master of Computer Applications (MCA).
+- Interested in Software Development and Web Development.
+- Skilled in HTML, CSS, JavaScript, PHP, MySQL, Python and C.
+- Continuously improving my programming and problem-solving skills.
+- Developing practical projects to gain hands-on experience.
+- Interested in collaboration, innovation and continuous learning.
 
 ## 🛠️ Technologies & Tools
 
