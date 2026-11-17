@@ -1,11 +1,28 @@
 
-<h1 align="center">Hi 👋, I'm Amen Abraham</h1>
+<div align="center">
 
-<h3 align="center">MCA Student | Aspiring Software Developer</h3>
+# AMEN ABRAHAM
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Learning+and+Building+Projects;Exploring+Web+Development" />
-</p>
+### MCA STUDENT | ASPIRING SOFTWARE DEVELOPER
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Passionate+about+Software+Development;Building+Projects+and+Learning+Every+Day" />
+
+<br/>
+
+**Turning ideas into practical digital solutions.**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Software_Development-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web_Development-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem_Solving-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+<br/>
+
+</div>
+
+---
+
 
 ---
 
