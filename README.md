@@ -67,43 +67,43 @@ I enjoy exploring new technologies, developing web applications, and transformin
 ## 📊 GitHub Statistics
 
 
+
+<!-- GITHUB STATISTICS -->
+
 <h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=My+GitHub+Journey;Consistency+Through+Coding;Learning+Building+Improving"
-       alt="Animated GitHub Statistics heading"/>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=My+GitHub+Journey;Consistency+Through+Coding;Learning+Building+Improving"
+    alt="GitHub Statistics Animation"
+  />
 </p>
+
+<h3 align="center">GitHub Overview</h3>
 
 <p align="center">
-  <img width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=amentabraham07-blip&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&rank_icon=github"
-    alt="GitHub Statistics"/>
-  <img width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amentabraham07-blip&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF"
-    alt="Most Used Languages"/>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=amentabraham07-blip&show_icons=true&theme=dark&hide_border=true"
+    alt="GitHub Statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amentabraham07-blip&layout=compact&theme=dark&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
 
-<h2 align="center">Contribution Streak</h2>
+<h3 align="center">Contribution Streak</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amentabraham07-blip&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
-       alt="Contribution Streak"/>
+  <img
+    width="60%"
+    src="https://streak-stats.demolab.com?user=amentabraham07-blip&theme=dark&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
-<h2 align="center">Contribution Activity</h2>
-
-<p align="center">
-  <img width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=amentabraham07-blip&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true"
-    alt="Contribution Activity Graph"/>
-</p>
-
-<h2 align="center">Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amentabraham07-blip/amentabraham07-blip/output/github-contribution-grid-snake.svg"
-       alt="Animated Contribution Snake"/>
-</p>
 
 ## 📈 Contribution Activity
 
