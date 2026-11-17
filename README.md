@@ -44,73 +44,25 @@ Currently pursuing postgraduate studies and developing technical knowledge throu
 
 ## Technology & Tools
 
+<div align="center">
 
-<h2 align="center">Technology & Tools</h2>
+### Programming Languages
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=25%2B+Technologies+%26+Tools;Building+Skills+Through+Practice;Always+Learning+New+Technologies"
-  alt="Technology Animation"/>
-</p>
+<img src="https://skillicons.dev/icons?i=c,python,php,js&theme=dark" alt="Programming Languages" />
 
-<h3 align="center">Programming Languages</h3>
+### Web Development
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Web Development" />
 
-<h3 align="center">Frontend Development</h3>
+### Database
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Database" />
 
-<h3 align="center">Backend Development</h3>
+### Development Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development Tools" />
 
-<h3 align="center">Databases</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-<h3 align="center">Development Tools</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=xampp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
-<h3 align="center">Design & Productivity</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
-
+</div>
 
 ---
 
