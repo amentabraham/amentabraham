@@ -81,18 +81,20 @@ I enjoy exploring new technologies, developing web applications, and transformin
 
 <h3 align="center">GitHub Overview</h3>
 
+
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=amentabraham07-blip&show_icons=true&theme=dark&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=amentabraham07-blip&show_icons=true&theme=dark&hide_border=true"
     alt="GitHub Statistics"
   />
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amentabraham07-blip&layout=compact&theme=dark&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=amentabraham07-blip&layout=compact&theme=dark&hide_border=true"
     alt="Most Used Languages"
   />
 </p>
+
 
 <h3 align="center">Contribution Streak</h3>
 
