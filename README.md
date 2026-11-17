@@ -1,12 +1,14 @@
 
-<div align="center">
-
 <p align="center">
-  <img src="banner.png" width="100%" alt="Amen Abraham - Aspiring Software Developer"/>
+  <img
+    src="./banner.jpg"
+    width="100%"
+    alt="Amen T Abraham - Aspiring Software Developer"
+  />
 </p>
+
 <br/>
 
-**Turning ideas into practical digital solutions.**
 
 <br/>
 
