@@ -23,12 +23,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Software_Development-000000?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web_Development-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/Problem_Solving-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-<br/>
-
 </div>
 
 ---
