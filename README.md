@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amentabraham07-blip/amentabraham07-blip/main/banner.jpg"
+       width="100%"
+       alt="Amen Abraham - Developer Banner"/>
+</p>
+
+<br/>
+
 <p align="center">
   <strong>AMEN ABRAHAM</strong><br/>
   MCA STUDENT | ASPIRING SOFTWARE DEVELOPER
