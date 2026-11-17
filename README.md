@@ -32,10 +32,26 @@
 
 ## 📊 GitHub Statistics
 
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amentabraham07-blip&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amentabraham07-blip&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF"/>
+  <img width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=amentabraham07-blip&show_icons=true&hide_border=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=00000000"
+  />
+  <img width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amentabraham07-blip&layout=compact&hide_border=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&bg_color=00000000"
+  />
 </p>
+
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=amentabraham07-blip&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
+  />
+</p>
+
 
 ## 📈 Contribution Activity
 
