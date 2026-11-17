@@ -1,16 +1,16 @@
 
 <div align="center">
 
-# AMEN T ABRAHAM
+# <span style="color:#00C9B7">AMEN ABRAHAM</span>
 
 ### MCA STUDENT | ASPIRING SOFTWARE DEVELOPER
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Development;Web+Development;Problem+Solving;Turning+Ideas+Into+Digital+Solutions" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00C9B7&center=true&vCenter=true&width=600&lines=Software+Development;Web+Development;Problem+Solving;Turning+Ideas+Into+Digital+Solutions" alt="Typing Animation" />
 
 **Turning ideas into practical digital solutions.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amentabraham07-blip)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amen-t-abraham-a00838351/)
+[![GitHub](https://img.shields.io/badge/GitHub-087E8B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amentabraham07-blip)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-087E8B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amen-t-abraham-a00838351/)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm **Amen T Abraham**, an MCA student and aspiring software developer with an interest in building practical and user-friendly software solutions.
+I'm **Amen Abraham**, an MCA student and aspiring software developer with an interest in building practical and user-friendly software solutions.
 
 I enjoy exploring new technologies, developing web applications, and transforming ideas into meaningful digital solutions.
 
@@ -48,19 +48,23 @@ Currently pursuing postgraduate studies and developing technical knowledge throu
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,python,php,js&theme=dark" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=c,python,php,js,java,cpp&theme=dark" alt="Programming Languages" />
 
 ### Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Web Development" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs&theme=dark" alt="Web Development" />
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Database" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres&theme=dark" alt="Databases" />
 
 ### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark" alt="Development Tools" />
+
+### Design & Productivity
+
+<img src="https://skillicons.dev/icons?i=figma,canva&theme=dark" alt="Design Tools" />
 
 </div>
 
@@ -68,17 +72,20 @@ Currently pursuing postgraduate studies and developing technical knowledge throu
 
 ## Featured Projects
 
-### 1. POS System
+### 01. POS System
+
 A Point of Sale application designed to support sales and business operations.
 
 **Technologies:** HTML, CSS, JavaScript, PHP, MySQL
 
-### 2. Event Planner
+### 02. Event Planner
+
 A web-based application for organizing and managing events.
 
 **Technologies:** PHP, MySQL, HTML, CSS
 
-### 3. Password Manager
+### 03. Password Manager
+
 A web application designed to organize and manage saved password entries.
 
 **Technologies:** HTML, CSS, JavaScript, PHP, MySQL
@@ -89,9 +96,9 @@ A web application designed to organize and manage saved password entries.
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=amentabraham07-blip&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Statistics" />
+<img src="https://github-stats-extended.vercel.app/api?username=amentabraham07-blip&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Statistics" />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=amentabraham07-blip&layout=compact&theme=dark&hide_border=true" width="48%" alt="Most Used Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=amentabraham07-blip&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Most Used Languages" />
 
 </div>
 
@@ -99,7 +106,7 @@ A web application designed to organize and manage saved password entries.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=amentabraham07-blip&theme=dark&hide_border=true" width="65%" alt="Contribution Streak" />
+<img src="https://streak-stats.demolab.com?user=amentabraham07-blip&theme=tokyonight&hide_border=true" width="65%" alt="Contribution Streak" />
 
 </div>
 
@@ -107,7 +114,7 @@ A web application designed to organize and manage saved password entries.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amentabraham07-blip&theme=github-dark&hide_border=true" width="95%" alt="Contribution Activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amentabraham07-blip&bg_color=1a1b27&color=70d7e8&line=00c9b7&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Activity" />
 
 </div>
 
@@ -125,9 +132,9 @@ A web application designed to organize and manage saved password entries.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amentabraham07-blip)
+[![GitHub](https://img.shields.io/badge/GitHub-087E8B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amentabraham07-blip)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amen-t-abraham-a00838351/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-087E8B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amen-t-abraham-a00838351/)
 
 </div>
 
@@ -137,6 +144,6 @@ A web application designed to organize and manage saved password entries.
 
 ### THANK YOU FOR VISITING MY PROFILE
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Keep+Learning.;Keep+Building.;Keep+Growing." alt="Closing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00C9B7&center=true&vCenter=true&width=450&lines=Keep+Learning.;Keep+Building.;Keep+Growing." alt="Closing Animation" />
 
 </div>
