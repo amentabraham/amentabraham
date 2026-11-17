@@ -1,10 +1,12 @@
+<p align="center">
+  <strong>AMEN ABRAHAM</strong><br/>
+  MCA STUDENT | ASPIRING SOFTWARE DEVELOPER
+</p>
 
 <p align="center">
-  <img
-    src="./banner.jpg"
-    width="100%"
-    alt="Amen T Abraham - Aspiring Software Developer"
-  />
+  <img src="https://img.shields.io/badge/SOFTWARE_DEVELOPMENT-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WEB_DEVELOPMENT-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PROBLEM_SOLVING-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </p>
 
 <br/>
