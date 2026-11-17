@@ -43,26 +43,48 @@ I enjoy exploring new technologies, developing web applications, and transformin
 ## 🛠️ Technologies & Tools
 
 
-<h2 align="center">🛠️ Technologies & Tools</h2>
+
+<h2 align="center">Technologies & Tools</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Languages+I+Work+With;Web+Development+Technologies;Tools+For+Building+Projects"
+    alt="Technology Animation"
+  />
 </p>
 
-<h2 align="center">💻 Development Tools</h2>
+<h3 align="center">Programming Languages</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
+
+<h3 align="center">Web Development</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
+</p>
+
+<h3 align="center">Database</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+<h3 align="center">Tools & Platforms</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
 
 ## 📊 GitHub Statistics
 
