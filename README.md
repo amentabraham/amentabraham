@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# <span style="color:#00C9B7">AMEN ABRAHAM</span>
+# <span style="color:#00C9B7">AMEN T ABRAHAM</span>
 
 ### MCA STUDENT | ASPIRING SOFTWARE DEVELOPER
 
@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm **Amen Abraham**, an MCA student and aspiring software developer with an interest in building practical and user-friendly software solutions.
+I'm **Amen T Abraham**, an MCA student and aspiring software developer with an interest in building practical and user-friendly software solutions.
 
 I enjoy exploring new technologies, developing web applications, and transforming ideas into meaningful digital solutions.
 
