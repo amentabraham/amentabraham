@@ -1,44 +1,58 @@
 
 <div align="center">
 
-# <span style="color:#00C9B7">AMEN T ABRAHAM</span>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10172A,50:087E8B,100:7655C9&height=220&section=header&text=AMEN%20ABRAHAM&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=MCA%20STUDENT%20%7C%20ASPIRING%20SOFTWARE%20DEVELOPER&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
 
-### MCA STUDENT | ASPIRING SOFTWARE DEVELOPER
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1000&color=42E8D5&center=true&vCenter=true&width=650&lines=Software+Development;Web+Development;Creative+Problem+Solving;Turning+Ideas+Into+Digital+Solutions" alt="Typing Animation" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00C9B7&center=true&vCenter=true&width=600&lines=Software+Development;Web+Development;Problem+Solving;Turning+Ideas+Into+Digital+Solutions" alt="Typing Animation" />
+<p>
+Building practical applications, exploring technologies, and growing through continuous learning.
+</p>
 
-**Turning ideas into practical digital solutions.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-087E8B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amentabraham07-blip)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-087E8B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amen-t-abraham-a00838351/)
+<a href="https://github.com/amentabraham07-blip">
+<img src="https://img.shields.io/badge/GitHub-10172A?style=for-the-badge&logo=github&logoColor=42E8D5"/>
+</a>
+<a href="https://www.linkedin.com/in/amen-t-abraham-a00838351/">
+<img src="https://img.shields.io/badge/LinkedIn-10172A?style=for-the-badge&logo=linkedin&logoColor=42E8D5"/>
+</a>
 
 </div>
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:087E8B,100:7655C9&height=3" width="100%"/>
+
 ## About Me
 
-I'm **Amen T Abraham**, an MCA student and aspiring software developer with an interest in building practical and user-friendly software solutions.
+<img align="right" width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amentabraham07-blip&layout=compact&theme=tokyonight&hide_border=true" />
 
-I enjoy exploring new technologies, developing web applications, and transforming ideas into meaningful digital solutions.
+I'm **Amen Abraham**, an MCA student and aspiring software developer interested in building practical and user-friendly software solutions.
 
-- Currently pursuing Master of Computer Applications (MCA).
-- Interested in Software Development and Web Development.
-- Skilled in HTML, CSS, JavaScript, PHP, MySQL, Python and C.
-- Continuously improving my programming and problem-solving skills.
-- Developing practical projects to gain hands-on experience.
+- Currently pursuing MCA.
+- Interested in Software and Web Development.
+- Learning and exploring new technologies.
+- Developing practical projects.
+- Improving programming and problem-solving skills.
 
-### Career Objective
+**Career Objective**
 
-To become a skilled software developer by applying my technical knowledge, developing innovative solutions, and continuously learning emerging technologies.
+To become a skilled software developer by applying technical knowledge and creating meaningful digital solutions.
+
+<br clear="right"/>
 
 ---
 
 ## Education & Learning
 
-**Master of Computer Applications (MCA)**
+<div align="center">
 
-Currently pursuing postgraduate studies and developing technical knowledge through academic learning and practical projects.
+<img src="https://img.shields.io/badge/MASTER_OF_COMPUTER_APPLICATIONS-10172A?style=for-the-badge&logo=academia&logoColor=42E8D5"/>
+
+**MCA — Currently Pursuing**
+
+Developing technical knowledge through academic learning and practical projects.
+
+</div>
 
 ---
 
@@ -48,23 +62,28 @@ Currently pursuing postgraduate studies and developing technical knowledge throu
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,python,php,js,java,cpp&theme=dark" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,php,js&theme=dark" />
 
-### Web Development
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs&theme=dark" alt="Web Development" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" />
 
-### Database
+### Backend Development
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres&theme=dark" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=php,nodejs,django&theme=dark" />
 
-### Development Tools
+### Databases
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark" alt="Development Tools" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres&theme=dark" />
 
-### Design & Productivity
+### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=figma,canva&theme=dark" alt="Design Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark" />
+
+### Design
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+<img src="https://img.shields.io/badge/Canva-10172A?style=for-the-badge&logo=canva&logoColor=42E8D5"/>
 
 </div>
 
@@ -72,33 +91,41 @@ Currently pursuing postgraduate studies and developing technical knowledge throu
 
 ## Featured Projects
 
-### 01. POS System
+<div align="center">
+
+<a href="https://github.com/amentabraham07-blip">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amentabraham07-blip&repo=POS&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+### 01 | POS System
 
 A Point of Sale application designed to support sales and business operations.
 
-**Technologies:** HTML, CSS, JavaScript, PHP, MySQL
+**Stack:** HTML · CSS · JavaScript · PHP · MySQL
 
-### 02. Event Planner
+### 02 | Event Planner
 
-A web-based application for organizing and managing events.
+A web application for organizing and managing events.
 
-**Technologies:** PHP, MySQL, HTML, CSS
+**Stack:** PHP · MySQL · HTML · CSS
 
-### 03. Password Manager
+### 03 | Password Manager
 
-A web application designed to organize and manage saved password entries.
+A web application for organizing and managing saved password entries.
 
-**Technologies:** HTML, CSS, JavaScript, PHP, MySQL
+**Stack:** HTML · CSS · JavaScript · PHP · MySQL
 
 ---
 
-## GitHub Statistics
+## GitHub Performance
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=amentabraham07-blip&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Statistics" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=amentabraham07-blip&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=amentabraham07-blip&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Most Used Languages" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=amentabraham07-blip&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -106,7 +133,7 @@ A web application designed to organize and manage saved password entries.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=amentabraham07-blip&theme=tokyonight&hide_border=true" width="65%" alt="Contribution Streak" />
+<img width="65%" src="https://streak-stats.demolab.com?user=amentabraham07-blip&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -114,15 +141,17 @@ A web application designed to organize and manage saved password entries.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amentabraham07-blip&bg_color=1a1b27&color=70d7e8&line=00c9b7&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Activity" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amentabraham07-blip&bg_color=10172A&color=42E8D5&line=7655C9&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
-### Contribution Snake
+---
+
+## Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/amentabraham07-blip/amentabraham07-blip/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/amentabraham07-blip/amentabraham07-blip/output/github-contribution-grid-snake.svg" width="100%" />
 
 </div>
 
@@ -132,18 +161,20 @@ A web application designed to organize and manage saved password entries.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-087E8B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amentabraham07-blip)
+<a href="https://github.com/amentabraham07-blip">
+<img src="https://img.shields.io/badge/GitHub-10172A?style=for-the-badge&logo=github&logoColor=42E8D5"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-087E8B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amen-t-abraham-a00838351/)
+<a href="https://www.linkedin.com/in/amen-t-abraham-a00838351/">
+<img src="https://img.shields.io/badge/LinkedIn-10172A?style=for-the-badge&logo=linkedin&logoColor=42E8D5"/>
+</a>
 
 </div>
 
----
-
 <div align="center">
 
-### THANK YOU FOR VISITING MY PROFILE
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=42E8D5&center=true&vCenter=true&width=500&lines=Keep+Learning.;Keep+Building.;Keep+Growing." />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00C9B7&center=true&vCenter=true&width=450&lines=Keep+Learning.;Keep+Building.;Keep+Growing." alt="Closing Animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7655C9,50:087E8B,100:10172A&height=120&section=footer" width="100%" />
 
 </div>
