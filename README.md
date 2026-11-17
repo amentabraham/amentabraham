@@ -67,25 +67,43 @@ I enjoy exploring new technologies, developing web applications, and transformin
 ## 📊 GitHub Statistics
 
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=My+GitHub+Journey;Consistency+Through+Coding;Learning+Building+Improving"
+       alt="Animated GitHub Statistics heading"/>
+</p>
 
 <p align="center">
   <img width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=amentabraham07-blip&show_icons=true&hide_border=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=00000000"
-  />
+    src="https://github-readme-stats.vercel.app/api?username=amentabraham07-blip&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&rank_icon=github"
+    alt="GitHub Statistics"/>
   <img width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amentabraham07-blip&layout=compact&hide_border=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&bg_color=00000000"
-  />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amentabraham07-blip&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF"
+    alt="Most Used Languages"/>
 </p>
 
-<h2 align="center">🔥 Contribution Streak</h2>
+<h2 align="center">Contribution Streak</h2>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=amentabraham07-blip&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
-  />
+  <img src="https://streak-stats.demolab.com?user=amentabraham07-blip&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
+       alt="Contribution Streak"/>
 </p>
 
+<h2 align="center">Contribution Activity</h2>
+
+<p align="center">
+  <img width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=amentabraham07-blip&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true"
+    alt="Contribution Activity Graph"/>
+</p>
+
+<h2 align="center">Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amentabraham07-blip/amentabraham07-blip/output/github-contribution-grid-snake.svg"
+       alt="Animated Contribution Snake"/>
+</p>
 
 ## 📈 Contribution Activity
 
