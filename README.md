@@ -27,18 +27,41 @@
 ## 👨‍💻 About Me
 
 
-## About Me
 
-I'm **Amen T Abraham**, an MCA student and aspiring software developer with an interest in building practical and user-friendly software solutions.
+<h2 align="center">About Me</h2>
 
-I enjoy exploring new technologies, developing web applications, and transforming ideas into meaningful digital solutions.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=MCA+Student;Aspiring+Software+Developer;Web+Development+Enthusiast;Passionate+About+Learning+New+Technologies"
+    alt="About Me Animation"
+  />
+</p>
 
-- Currently pursuing Master of Computer Applications (MCA).
-- Interested in Software Development and Web Development.
-- Skilled in HTML, CSS, JavaScript, PHP, MySQL, Python and C.
-- Continuously improving my programming and problem-solving skills.
-- Developing practical projects to gain hands-on experience.
-- Interested in collaboration, innovation and continuous learning.
+<p align="center">
+  I'm <b>Amen Abraham</b>, an MCA student and aspiring software developer
+  interested in building practical and user-friendly software solutions.
+</p>
+
+<h3 align="center">My Interests</h3>
+
+<p align="center">
+  Software Development | Web Development | Problem Solving
+</p>
+
+<h3 align="center">What I'm Currently Doing</h3>
+
+<p align="center">
+  Learning new technologies, developing practical projects,
+  and improving my programming and problem-solving skills.
+</p>
+
+<h3 align="center">Career Objective</h3>
+
+<p align="center">
+  To become a skilled software developer by applying my technical knowledge,
+  building innovative solutions, and continuously learning emerging technologies.
+</p>
+
 
 ## 🛠️ Technologies & Tools
 
